@@ -35,7 +35,7 @@ Me chamo João Victor Rangel, tenho 24 anos e sou natural de São José dos Camp
 
 ---
 
-### 🤖 Linguagens e Tecnologias [cite: 2]
+### 🤖 Linguagens e Tecnologias 
 
 <img 
     align="left" 
