@@ -5,21 +5,21 @@
 Me chamo João Victor Rangel, tenho 24 anos e sou natural de São José dos Campos, SP. Sou graduado em Ciência e Tecnologia e atualmente curso mestrado em Engenharia Biomédica pela UNIFESP. Como pesquisador na Harpia AI, foco em Deep Learning e Sistemas Embarcados, com ênfase na co-otimização de software e hardware para sistemas de BCI e Edge AI. Além da pesquisa acadêmica, possuo experiência comoSolution Architect na Dassault Systèmes e MLOps Engineer na Self Solutions.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU_LINK_LINKEDIN">
+    <a href="www.linkedin.com/in/joão-victor-de-carvalho-rangel">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Joao-Victor-Rangel?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/Joao-Victor-Rangel?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
