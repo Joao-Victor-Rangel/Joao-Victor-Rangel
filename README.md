@@ -2,10 +2,10 @@
 
 **`MLOps Engineer | Machine Learning & Software Design`**
 
-Me chamo João Victor Rangel, tenho 24 anos e sou natural de São José dos Campos, SP. Sou graduado em Ciência e Tecnologia e atualmente curso mestrado em Engenharia Biomédica pela UNIFESP. Como pesquisador na Harpia AI, foco em Deep Learning e Sistemas Embarcados, com ênfase na co-otimização de software e hardware para sistemas de BCI e Edge AI. Além da pesquisa acadêmica, possuo experiência comoSolution Architect na Dassault Systèmes e MLOps Engineer na Self Solutions.
+Me chamo João Victor Rangel, tenho 24 anos e sou natural de São José dos Campos, SP. Sou graduado em Ciência e Tecnologia e atualmente curso mestrado em Engenharia Biomédica pela UNIFESP. Como pesquisador na Harpia AI, foco em Deep Learning e Sistemas Embarcados, com ênfase na co-otimização de software e hardware para sistemas de BCI e Edge AI. Além da pesquisa acadêmica, possuo experiência como Solution Architect na Dassault Systèmes e MLOps Engineer na Self Solutions.
 
 <p align="left">
-    <a href="www.linkedin.com/in/joão-victor-de-carvalho-rangel">
+    <a href="https://www.linkedin.com/in/joão-victor-de-carvalho-rangel">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
@@ -16,14 +16,14 @@ Me chamo João Victor Rangel, tenho 24 anos e sou natural de São José dos Camp
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Joao-Victor-Rangel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Joao-Victor-Rangel?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Joao-Victor-Rangel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <img 
@@ -137,13 +137,13 @@ Me chamo João Victor Rangel, tenho 24 anos e sou natural de São José dos Camp
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Joao-Victor-Rangel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Rangel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
