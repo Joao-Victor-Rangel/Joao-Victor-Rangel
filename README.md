@@ -1,21 +1,21 @@
 # Olá, eu sou o João Victor Rangel 👋
 
-## MLOps Engineer | [cite_start]Machine Learning & Software Design [cite: 3]
+## MLOps Engineer | Machine Learning & Software Design 
 
-[cite_start]Sou um engenheiro de MLOps especializado em ecossistemas de IA escaláveis e desenvolvimento Full-Stack[cite: 4]. [cite_start]Meu foco atual está na otimização de IA para borda (Quantização/Pruning) e infraestrutura em nuvem AWS[cite: 4, 17]. 
+Sou um engenheiro de MLOps especializado em ecossistemas de IA escaláveis e desenvolvimento Full-Stack. Meu foco atual está na otimização de IA para borda (Quantização/Pruning) e infraestrutura em nuvem AWS. 
 
-[cite_start]Atualmente, curso Mestrado em Engenharia Biomédica na Unifesp, onde pesquiso a co-otimização de software e hardware para sistemas de BCI baseados em Deep Learning[cite: 7, 8].
+Atualmente, curso Mestrado em Engenharia Biomédica na Unifesp, onde pesquiso a co-otimização de software e hardware para sistemas de BCI baseados em Deep Learning.
 
 ---
 
 ### 🛠️ No que estou trabalhando:
-* [cite_start]🔭 **MLOps na Self Solutions**: Arquitetando pipelines AWS para processamento de biosinais em tempo real[cite: 15, 16].
-* [cite_start]🎓 **Mestrado (Unifesp)**: Desenvolvendo frameworks para maximizar a precisão de inferência neural com baixa latência[cite: 7, 8].
-* [cite_start]🧠 **Edge AI**: Implementando modelos de alta eficiência para dispositivos móveis e Raspberry Pi[cite: 17, 23].
+* 🔭 **MLOps na Self Solutions**: Arquitetando pipelines AWS para processamento de biosinais em tempo real.
+* 🎓 **Mestrado (Unifesp)**: Desenvolvendo frameworks para maximizar a precisão de inferência neural com baixa latência.
+* 🧠 **Edge AI**: Implementando modelos de alta eficiência para dispositivos móveis e Raspberry Pi.
 
 ---
 
-### [cite_start]💻 Tecnologias e Ferramentas [cite: 32, 33]
+### 💻 Tecnologias e Ferramentas 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,9 +32,8 @@
 ---
 
 ### 🏆 Conquistas e Reconhecimentos
-* [cite_start]🚀 Finalista no **Harvard AI Hackathon** (Global AI solutions)[cite: 29].
-* [cite_start]🍫 Finalista no **Nestlé Hackathon** (Dados industriais e de consumo)[cite: 29].
-* [cite_start]🏥 Finalista no **AI in Healthcare Hackathon** (Modelos diagnósticos)[cite: 29].
+* 🚀 Finalista no **Harvard AI Hackathon** (Global AI solutions)[].
+* 🍫 Finalista no **Nestlé Hackathon** (Dados industriais e de consumo).
 
 ---
 
@@ -48,8 +47,5 @@
 ---
 
 ### 📫 Vamos nos conectar?
-* 💼 [LinkedIn](https://www.linkedin.com/in/SEU_LINK_AQUI)
-* [cite_start]📍 São José dos Campos, SP - Brasil [cite: 39]
-
----
-*README customizado com base no guia de Larissa Kich.*
+* 💼 [LinkedIn](www.linkedin.com/in/joão-victor-de-carvalho-rangel)
+* 📍 São José dos Campos, SP - Brasil 
